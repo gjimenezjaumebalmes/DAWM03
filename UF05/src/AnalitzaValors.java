@@ -2,7 +2,7 @@
 import java.util.*;
 
 
-class MainA31 {
+class Main {
     public static void analitzaValors(int[] v) {
         //Es crea crea una llista a partir dels valors de l'array
         List<Integer> llista = new ArrayList<>();
@@ -81,7 +81,7 @@ class MainA31 {
 //        int[] v = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 3, 3, 3, 6, 6, 6, 6, 9, 9, 12, 12, 12, 12, 12, 12, 12, 12};
 //        int[] v = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20}
 //        int[] v = {5, 10, 15, 20, 25, 30, 35, 40, 45, 50}
-        int[] v = {1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89}
+        int[] v = {1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89};
 //        int[] v = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}
 //        int[] v = {0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55}
         analitzaValors(v);
