@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-class MainA32 {
+class Main {
 
         public static void main(String[] args) {
                 // Crear el diccionari amb les conversions
@@ -21,7 +21,7 @@ class MainA32 {
                 // Llegir la talla a convertir de l'usuari
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("Programa conversor de talles de roba");
-                System.out.println("Exemple: TraductorTalla XXL");
+                System.out.println("Exemple: XXL");
                 System.out.print("Introduïu la talla internacional XXS, 2XS, XS, S, M, L, XL, XXL, 2XL, XXXL, 3XL: ");
                 String talla = scanner.nextLine().toUpperCase();
 
