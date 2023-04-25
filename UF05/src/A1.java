@@ -62,24 +62,24 @@ class MainA1 {
         // Mostrem el temps que ha tardat el càlcul amb StringBuilder
         System.out.println("Temps en fer el càlcul amb StringBuilder : " + temps + " segons\n");
 
-        // Guardem el temps d'inici del càlcul amb l'operador
+        // Guardem el temps d'inici del càlcul
         startTime = System.nanoTime();
 
-        // Creem una cadena de caràcter usant l'operador "+"
+        // Creem una cadena de caràcter
         String sequencia2 = "";
         for (int i = 1; i <= 10000000; i++) {
             sequencia2 += i;
         }
-        // Busquem la posició del valor introduït per l'usuari a la cadena generada amb l'operador "+"
+        // Busquem la posició del valor introduït per l'usuari a la cadena generada
         int posicio2 = sequencia2.indexOf(String.valueOf(valorBuscat));
 
         // Guardem el temps final del càlcul amb l'operador i calculem el temps que ha tardat
                 endTime = System.nanoTime();
         temps = (endTime - startTime) / 1000000000.0;
 
-        // Mostrem la longitud de la cadena generada amb l'operador "+"
+        // Mostrem la longitud de la cadena generada
         System.out.println("\nLongitud de la cadena generada: " + sequencia2.length() + "\n");
-        // Mostrem la posició del valor introduït per l'usuari si apareix a la seqüència generada amb l'operador "+"
+        // Mostrem la posició del valor introduït per l'usuari si apareix a la seqüència generada
         if (posicio2 != -1) {
             System.out.println("El valor " + valorBuscat + " apareix per primer cop a la següència\n");
             System.out.println("en posició : " + posicio2 + "\n");
@@ -87,7 +87,7 @@ class MainA1 {
             System.out.println("El valor " + valorBuscat + " no apareix a la següència generada\n");
         }
 
-        // Mostrem el temps que ha tardat el càlcul amb l'operador +
+        // Mostrem el temps que ha tardat el càlcul
         System.out.println("Temps en fer el càlcul amb l'operador + : " + temps + " segons.");
 
     }
