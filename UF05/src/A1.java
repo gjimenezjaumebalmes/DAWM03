@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 // Creem una classe ProvaStringBuilder
-class ProvaStringBuilder {
+class MainA1 {
 
     // Creem el mètode principal
     public static void main(String[] args) {

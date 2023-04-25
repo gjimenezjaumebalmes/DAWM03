@@ -1,6 +1,6 @@
 import java.util.*; // Importem la classe java.util per a poder utilitzar les llistes.
 
-class Main {
+class MainA2 {
 
     private static boolean resultat(List<String> veins) {
         // Creem la funció privada resultat que retorna un valor boolean i rep una llista de strings anomenada veins com a paràmetre.
