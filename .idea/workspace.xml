@@ -5,21 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa11b66d-7852-456b-a03e-d29749813b24" name="Changes" comment="UF06">
-      <change afterPath="$PROJECT_DIR$/UF05/src/Cadena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UF05/src/Cadenable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UF05/src/IterarCadena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UF06/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_25_2023_11_08_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_25_2023_11_08_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_25_2023_6_14_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_25_2023_6_14_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF05/src/AnalitzaParaules.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF05/src/AnalitzaValors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF05/src/StringBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF05/src/TraductorTalla.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF05/src/veins.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,9 +34,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/UF06" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -50,7 +50,28 @@
       <recent name="C:\Users\Hal 9000\Desktop\DAWM03\UF06" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IterarCadena">
+  <component name="RunManager" selected="Application.Anagrama">
+    <configuration name="Anagrama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagrama" />
+      <module name="M03UF05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Anagramas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagramas" />
+      <module name="M03UF05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramasFacil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnagramasFacil" />
+      <module name="M03UF05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IterarCadena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IterarCadena" />
       <module name="M03UF05" />
@@ -67,18 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainA33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainA33" />
-      <module name="M03UF05" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagrama" />
+        <item itemvalue="Application.Anagramas" />
+        <item itemvalue="Application.AnagramasFacil" />
         <item itemvalue="Application.IterarCadena" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainA33" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +106,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682413639248</updated>
+      <workItem from="1682500706113" duration="2393000" />
+      <workItem from="1682530648521" duration="53000" />
+      <workItem from="1682582014394" duration="2779000" />
     </task>
     <task id="LOCAL-00001" summary="A1">
       <created>1682413677051</created>
@@ -147,8 +166,18 @@
       <option name="project" value="LOCAL" />
       <updated>1682439261637</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="UF05  -  A6">
+      <created>1682586129080</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682586129080</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -171,6 +200,7 @@
     <MESSAGE value="TraductorTalla" />
     <MESSAGE value="AnalitzaParaules" />
     <MESSAGE value="UF06" />
-    <option name="LAST_COMMIT_MESSAGE" value="UF06" />
+    <MESSAGE value="UF05  -  A6" />
+    <option name="LAST_COMMIT_MESSAGE" value="UF05  -  A6" />
   </component>
 </project>
