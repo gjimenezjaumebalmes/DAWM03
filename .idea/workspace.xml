@@ -4,7 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa11b66d-7852-456b-a03e-d29749813b24" name="Changes" comment="UF06 ConectarBDRemota_GJA" />
+    <list default="true" id="fa11b66d-7852-456b-a03e-d29749813b24" name="Changes" comment="UF06 ConectarBDRemota_GJA">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/7.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/ConectarBDRemota_GJA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/artifacts/ConectarBDRemota_GJA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/artifacts/ConectarBDRemota_GJA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/2023-05-12 21_15_48-ConectarBDRemota_GJA – MySQLConnectionApp.java [ConectarBDRemota_GJA.main].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/classes/java/main/com/example/conectarbdremota_gja/HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/classes/java/main/com/example/conectarbdremota_gja/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/classes/java/main/conectarbdremota_gja/MySQLConnectionApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/classes/java/main/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/distributions/ConectarBDRemota_GJA-1.0-SNAPSHOT.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/distributions/ConectarBDRemota_GJA-1.0-SNAPSHOT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/libs/ConectarBDRemota_GJA-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/resources/main/com/example/conectarbdremota_gja/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/scripts/ConectarBDRemota_GJA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/scripts/ConectarBDRemota_GJA.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/out/artifacts/ConectarBDRemota_GJA_jar/ConectarBDRemota_GJA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/src/main/java/conectarbdremota_gja/MySQLConnectionApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF06/ConectarBDRemota_GJA/src/main/resources/com/example/conectarbdremota_gja/hello-view.fxml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +75,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5ca19c7648b568c3b6d948838e8b09d250f042c7" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Oubup8CcYB9rbpTf0p8W7BRLed" />
@@ -182,7 +241,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682586537820</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="UF06 ConectarBDRemota_GJA">
+      <created>1683920896996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683920896997</updated>
+    </task>
+    <task id="LOCAL-00013" summary="UF06 ConectarBDRemota_GJA">
+      <created>1683920931982</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683920931982</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +284,7 @@
     <MESSAGE value="UF06" />
     <MESSAGE value="UF05  -  A6" />
     <MESSAGE value="UF05  -  A6 &quot;canvis&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="UF05  -  A6 &quot;canvis&quot;" />
+    <MESSAGE value="UF06 ConectarBDRemota_GJA" />
+    <option name="LAST_COMMIT_MESSAGE" value="UF06 ConectarBDRemota_GJA" />
   </component>
 </project>
